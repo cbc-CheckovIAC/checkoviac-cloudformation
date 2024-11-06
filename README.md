@@ -33,3 +33,6 @@ Blog --> https://medium.com/@gmusumeci/how-to-build-step-by-step-a-multi-cloud-w
 **gcp-variables.tf** --> GCP variables
 
 **terraform.tfvars** --> cloud credentials
+
+
+test commit
